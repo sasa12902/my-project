@@ -1,0 +1,20 @@
+{"id":"qa-001","question":"近 7 天澳洲锂出口政策有何变化?","expected_source_types":["policy"],"must_contain_any":["Australia","lithium","policy","export"],"gold_doc_query":"Australia lithium export policy"}
+{"id":"qa-002","question":"过去 30 天铜价有哪些主要驱动因素?","expected_source_types":["price"],"must_contain_any":["copper","price","inventories","demand"],"gold_doc_query":"copper benchmark price inventories demand"}
+{"id":"qa-003","question":"近期镍矿供应风险集中在哪些国家?","expected_source_types":["news"],"must_contain_any":["nickel","supply","project","risks"],"gold_doc_query":"nickel mine supply risks"}
+{"id":"qa-004","question":"中国稀土政策近期有哪些值得关注的信号?","expected_source_types":["policy"],"must_contain_any":["China","rare earths","policy","critical minerals"],"gold_doc_query":"China rare earths critical minerals policy"}
+{"id":"qa-005","question":"铁矿石价格变化和需求有什么关系?","expected_source_types":["price"],"must_contain_any":["iron ore","price","demand"],"gold_doc_query":"iron ore benchmark price demand"}
+{"id":"qa-006","question":"近 30 天关键矿产加工补贴对锂市场有什么影响?","expected_source_types":["policy"],"must_contain_any":["processing subsidy","lithium","critical minerals"],"gold_doc_query":"lithium processing subsidy critical minerals"}
+{"id":"qa-007","question":"最近矿业项目延期常见原因是什么?","expected_source_types":["news"],"must_contain_any":["project timing","permitting","financing"],"gold_doc_query":"project timing permitting financing mining"}
+{"id":"qa-008","question":"锌价格最近受哪些因素影响?","expected_source_types":["price"],"must_contain_any":["zinc","price","inventories","macro"],"gold_doc_query":"zinc benchmark price inventories macro"}
+{"id":"qa-009","question":"澳洲关键矿产战略关注哪些方向?","expected_source_types":["policy"],"must_contain_any":["Australia","critical minerals","strategy"],"gold_doc_query":"Australia critical minerals strategy"}
+{"id":"qa-010","question":"近期铜矿新闻里供应链和物流风险如何体现?","expected_source_types":["news"],"must_contain_any":["copper","logistics","supply"],"gold_doc_query":"copper mining logistics supply"}
+{"id":"qa-011","question":"镍价变化和库存有什么关系?","expected_source_types":["price"],"must_contain_any":["nickel","inventories","price"],"gold_doc_query":"nickel price inventories"}
+{"id":"qa-012","question":"关键矿产出口管制会影响哪些市场变量?","expected_source_types":["policy"],"must_contain_any":["export controls","stockpiles","approval timelines"],"gold_doc_query":"critical minerals export controls stockpiles approval timelines"}
+{"id":"qa-013","question":"近 30 天稀土矿业新闻关注哪些供给风险?","expected_source_types":["news"],"must_contain_any":["rare earths","supply","risks"],"gold_doc_query":"rare earths mine supply risks"}
+{"id":"qa-014","question":"锂价格近期有哪些观察点?","expected_source_types":["price"],"must_contain_any":["lithium","benchmark prices","demand"],"gold_doc_query":"lithium benchmark prices demand"}
+{"id":"qa-015","question":"环境审查会如何影响关键矿产项目?","expected_source_types":["policy"],"must_contain_any":["environmental review","approval timelines","critical minerals"],"gold_doc_query":"environmental review critical minerals approval timelines"}
+{"id":"qa-016","question":"近期矿业公司融资条件对项目有什么影响?","expected_source_types":["news"],"must_contain_any":["financing conditions","project timing"],"gold_doc_query":"financing conditions project timing mining"}
+{"id":"qa-017","question":"LME 铜锌镍价格查询应该主要看哪类源?","expected_source_types":["price"],"must_contain_any":["copper","zinc","nickel","price"],"gold_doc_query":"copper zinc nickel LME price"}
+{"id":"qa-018","question":"印尼镍产业相关政策可能影响什么?","expected_source_types":["policy"],"must_contain_any":["Indonesia","nickel","policy"],"gold_doc_query":"Indonesia nickel policy critical minerals"}
+{"id":"qa-019","question":"加拿大锂矿项目近期有哪些风险?","expected_source_types":["news"],"must_contain_any":["Canada","lithium","risks"],"gold_doc_query":"Canada lithium mining risks"}
+{"id":"qa-020","question":"上海钢联铁矿石数据属于本项目哪一类信息?","expected_source_types":["price"],"must_contain_any":["iron ore","price"],"gold_doc_query":"Mysteel iron ore price"}
